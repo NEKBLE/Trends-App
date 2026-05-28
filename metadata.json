@@ -1,0 +1,6 @@
+{
+  "name": "NEKBLE Trends",
+  "description": "App tracking Namu Wiki real-time search trends with Apple native fluid design and AI summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
